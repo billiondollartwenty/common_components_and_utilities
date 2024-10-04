@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+}
+.container {
+    background-color: white;
+    margin: 50px;
+}
+
+div {
+    background-color: white;
+}
+
+.card {
+    color: black;
+}
+
+div.card-header {
+    background-color: rgb(233, 235, 236);
+    color: black;
+}
+
+.nav {
+    background-color: white;
+}
+
+.border {
+    background-color: white;
+}
+
+.btn.btn-primary {
+    background-color: rgb(238, 238, 11);
+    color:rgb(77, 74, 74);
+}
